@@ -24,18 +24,19 @@ interests:
 - Wireless communications
 - Applied electromagntics
 - Embedded systems
+- Brain-computer interfaces
 
 education:
   courses:
-  - course: Ph.D. in Electrical & Computer Engineering
+  - course: Ph.D. Electrical & Computer Engineering
     institution: University of Washington
     year: 2018-Present
-  - course: M.S. in Electrical & Computer Engineering
+  - course: M.S. Electrical & Computer Engineering
     institution: University of Washington
-    year: 2018
-  - course: B.Sc. in Electrical Engineering
+    year: 2016-2018
+  - course: B.Sc. Electrical Engineering
     institution: University of Minnesota--Twin Cities
-    year: 2013
+    year: 2008-2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +71,8 @@ email: ""
 #- Visitors
 ---
 
-Hello, I am a Ph.D. student at the University of Washington in the Department of Electrical & Computer Engineering. My studies are supported by the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
+Hello, I am a Ph.D. student at the University of Washington in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/). My studies are supported by the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
 
 My research focuses on developing novel wireless sensing systems that are smaller, lighter, and more energy efficient. These systems in turn enable exploration of new extreme environments, like other planets and the brain.
 
-Much of my work focuses on embedded-electronics and instrumentation hardware for government, industry, and academic research. Examples include nanosatellite avionics, ultra-low power wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons.
+Much of my work focuses on embedded-electronics and instrumentation hardware for government, industry, and academic research. Examples include nanosatellite avionics, ultra-low power wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons. For more info, see my [CV](files/cv.pdf).

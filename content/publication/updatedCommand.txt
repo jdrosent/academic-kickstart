@@ -1,0 +1,3 @@
+academic import --bibtex <path_to_your/publications.bib>
+
+COMMAND FOR UPDATING PUBLICATIONS
