@@ -73,6 +73,6 @@ email: ""
 
 Hello, I am a Ph.D. student at the University of Washington in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/). My studies are supported by the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
 
-My research focuses on developing novel wireless sensing systems that are smaller, lighter, and more energy efficient. These systems in turn enable exploration of new extreme environments, like other planets and the brain.
+My research focuses on developing novel wireless sensing systems that are smaller, lighter, and more energy efficient. These systems in turn enable exploration of diverse, extreme environments, from the brain to the solar system.
 
 Much of my work focuses on embedded-electronics and instrumentation hardware for government, industry, and academic research. Examples include nanosatellite avionics, ultra-low power wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons. For more info, see my [CV](files/cv.pdf).
