@@ -11,14 +11,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
-   viewBox="0 0 8.4666665 8.4666669"
+   viewBox="0 0 8.4666662 8.4666668"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="C:\Users\Jimmy\Documents\Hugo\Sites\My_Website\public\img\icon-32.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-filename="C:\Users\Jimmy\Documents\Hugo\Sites\My_Website\themes\academic\static\img\icon-32.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="-67.132264"
-     inkscape:cy="-5.0614905"
+     inkscape:cx="-44.42301"
+     inkscape:cy="21.153717"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,22 +58,22 @@
      id="layer1"
      transform="translate(0,-288.53332)">
     <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.81226099;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4518"
-       width="3.6749561"
-       height="3.6749561"
-       x="2.5557637"
-       y="290.98639" />
+       width="3.7312791"
+       height="3.7312791"
+       x="2.5775168"
+       y="290.90829" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.80000001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.81226099;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4520"
-       width="2.4722431"
-       height="2.4889474"
-       x="3.1571202"
-       y="291.57941" />
+       width="2.5101333"
+       height="2.5270936"
+       x="3.1880898"
+       y="291.51044" />
     <g
        id="g4594"
-       transform="translate(0.02087948,0.10022607)">
+       transform="matrix(1.0153262,0,0,1.0153262,0.00378229,-4.4360463)">
       <path
          inkscape:connector-curvature="0"
          id="path4522"
@@ -102,7 +102,7 @@
     </g>
     <g
        id="g4594-7"
-       transform="translate(-0.0459379,5.6794779)">
+       transform="matrix(1.0153262,0,0,1.0153262,-0.06405917,1.2287246)">
       <path
          inkscape:connector-curvature="0"
          id="path4522-4"
@@ -131,7 +131,7 @@
     </g>
     <g
        id="g4708"
-       transform="rotate(90,1.5702228,295.07897)">
+       transform="matrix(0,1.0153262,-1.0153262,0,301.17829,293.46933)">
       <g
          transform="translate(-5.0572406,-0.4677157)"
          id="g4594-3">
@@ -192,16 +192,16 @@
       </g>
     </g>
     <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26475349;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26881117;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4739"
        sodipodi:type="arc"
-       sodipodi:cx="1.9794636"
-       sodipodi:cy="290.33493"
-       sodipodi:rx="0.091547646"
-       sodipodi:ry="0.08403974"
+       sodipodi:cx="1.9923841"
+       sodipodi:cy="290.24686"
+       sodipodi:rx="0.092950732"
+       sodipodi:ry="0.085327759"
        sodipodi:start="4.8547729"
        sodipodi:end="4.8543192"
        sodipodi:open="true"
-       d="m 1.9924545,290.25174 a 0.09154765,0.08403974 0 0 1 0.077632,0.0951 0.09154765,0.08403974 0 0 1 -0.1035931,0.0713 0.09154765,0.08403974 0 0 1 -0.077655,-0.0951 0.09154765,0.08403974 0 0 1 0.1035755,-0.0713" />
+       d="m 2.0055741,290.16239 a 0.09295073,0.08532776 0 0 1 0.078822,0.0966 0.09295073,0.08532776 0 0 1 -0.1051808,0.0724 0.09295073,0.08532776 0 0 1 -0.078845,-0.0965 0.09295073,0.08532776 0 0 1 0.1051628,-0.0724" />
   </g>
 </svg>

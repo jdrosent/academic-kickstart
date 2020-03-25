@@ -1,6 +1,9 @@
 ---
 title: Posts
 
+reading_time: false  # Show estimated reading time?
+
+
 # View.
 #   1 = List
 #   2 = Compact

@@ -21,10 +21,13 @@ organizations:
 bio: My research focuses on developing smaller, lighter, and lower power sensing systems for exploring extreme environments.
 
 interests:
-- Wireless communications
-- Applied electromagntics
-- Embedded systems
-- Brain-computer interfaces
+- Ultra-low power wireless communications
+- Applied electromagntics for sensing and communication
+- Instrumentation for extreme environments
+- Wireless embedded systems
+- Fully-integrated brain-computer interfaces
+- Characterization and application of neural plasticity
+- Wireless sensing systems for *in situ* planetary exploration
 
 education:
   courses:
@@ -71,8 +74,10 @@ email: ""
 #- Visitors
 ---
 
-Hello, I am a Ph.D. student at the University of Washington in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/). My studies are supported by the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
+Hello, I am a Ph.D. student and National Science Graduate Research Fellow in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the University of Washington.
 
 My research focuses on developing novel wireless sensing systems that are smaller, lighter, and more energy efficient. These systems in turn enable exploration of diverse, extreme environments, from the brain to the solar system.
 
-Much of my work focuses on embedded-electronics and instrumentation hardware for government, industry, and academic research. Examples include nanosatellite avionics, ultra-low power wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons. For more info, see my [CV](files/cv.pdf).
+Much of my work focuses on embedded-electronics and instrumentation hardware for government, industry, and academic research. Examples include nanosatellite avionics, ultra-low power wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons. For an overview of my experience, see my [CV](files/cv.pdf). For more details on my work, check out my [Publications](publication) and Projects on this site.
+
+If you have any questions, don't hesitate to reach out.
