@@ -1,9 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NeuroDisc: Fully-Digital Wireless Brain-Computer Interface"
-subtitle: "A 16-channel, 25 Mbps wireless brain-computer interface leveraging ultra-low power backscatter communication"
-summary: ""
+title: "NeuroDisc"
+subtitle: "**A wireless backscatter brain-computer interface for electrophysiology experiments**
+
+
+The NeuroDisc is a wireless brain-computer interface that can interface with up to 16 electrode channels.
+Channels can be sampled at up 20 kSamples/sec with 16-bit resolution thanks to an on-board Intan RHS2116 biopotential front end.
+Raw high-bandwidth neural data can then be streamed to an external system using several different modes:
+
+
+- A custom 25 Mbps differential quadrature phase-shift keying (DQPSK) uplink that expends only 12.4 pJ/bit
+
+- A Bluetooth Low Energy (BLE) backscatter uplink that is compatible with any BLE device (e.g. smartphone or tablet) and consumes <200 pJ/bit, over 50X 
+lower power consumption than commercially available BLE transmitters"
+summary: "A wireless backscatter brain-computer interface for electrophysiology experiments"
 tags: [biomedical devices, bci, bmi, backscatter]
 authors: []
 categories: []

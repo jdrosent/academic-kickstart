@@ -1,8 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "IEEE Wireless Sensor Networks Conference, 2019"
-event: 
+title: "A 158 pJ/bit 1.0 Mbps Bluetooth Low Energy (BLE) Compatible
+Backscatter Communication System for Wireless Sensing"
+event: "IEEE Wireless Sensor Networks Conference, 2019"
 event_url:
 location:
 address:
@@ -11,13 +12,28 @@ address:
   region:
   postcode:
   country:
-summary:
-abstract:
+summary: "Conference presentation about the first fully-digital Bluetooth Low Energy backscatter uplink for wireless sensing systems"
+abstract: "Wireless links using backscatter communication
+offer the advantages of reduced complexity and orders of
+magnitude lower power consumption than active radios.
+However, the need for specialized receiver systems has limited
+the use of backscatter in wireless sensing applications. To
+address this need, we introduce the first backscatter-based
+wireless sensor tag that can stream sensor data to any of the
+billions of existing Bluetooth 4.0 Low Energy (BLE) devices,
+including smartphones, tablets, and PCs. The FPGA-based
+“BLE Backscatter Sensor Node” (BBSN) uses an external
+carrier source and requires no modifications to smartphone,
+tablet, or PC hardware or software whatsoever. The device
+transmits a 1.0 Mbps data stream with BLE-compatible
+frequency-shift keying modulation. The backscatter modulator
+consumes only 158 pJ/bit, making it over 60X more energy
+efficient than a conventional BLE active radio (>10 nJ/bit)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2019-01-30T10:00:00-07:00
-#date_end: 2020-03-22T18:49:47-07:00
+#date_end: 2019-01-30T10:00:00-07:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
