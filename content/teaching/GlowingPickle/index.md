@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "UW Outreach: Glowing Pickle Demo"
+title: "Glowing Pickle Demo"
 subtitle: "**Talking with UW Women in Science & Engineering**. 
 
 
@@ -44,4 +44,4 @@ projects: []
 
 {{< figure src="pickle.JPG" title="The *Glowing Pickle* demo. UW Campus Seattle, WA." lightbox="false" >}}
 
-{{< figure src="explain.JPG" title="Discussing the science behind why the pickle glows (and why it smells so bad afterwards). UW Campus Seattle, WA." lightbox="false" >}}
+{{< figure src="explain.JPG" title="Discussing the science behind why the pickle glows (and why it smells so bad afterwards). UW Campus Seattle, WA. (Photo credit: Y. Flores)" lightbox="false" >}}

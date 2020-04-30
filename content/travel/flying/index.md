@@ -32,7 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: [""]
 ---
-{{< figure src="featured.jpg" title="Being towed to altitude with Mt. Raininer in the distance. Somewhere above Arlington, WA." lightbox="false" >}}
+{{< figure src="featured.jpg" title="Being towed to altitude with Mt. Baker in the distance. Somewhere above Arlington, WA." lightbox="false" >}}
 
 {{< figure src="inflight.JPG" title="Gliding around, looking for thermals. Somewhere above Arlington, WA." lightbox="false" >}}
 

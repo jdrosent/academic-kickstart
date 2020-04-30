@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NASA Outreach: HUNCH"
+title: "HUNCH"
 subtitle: "**High school students United with NASA to Create Hardware (HUNCH)**. 
 
 
@@ -45,6 +45,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-{{< figure src="featured.jpg" title="Students present their finished locker to a NASA HUNCH team member from Johnson Space Center in Houston. Newport News, VA." lightbox="false" >}}
+{{< figure src="featured.jpg" title="Students present their finished locker to a NASA HUNCH team member from Johnson Space Center in Houston. Newport News, VA. (Photo credit: Daily Press)" lightbox="false" >}}
 
-{{< figure src="photo.jpg" title="The completed locker arriving to the International Space Station. Low Earth Orbit, Space." lightbox="false" >}}
+{{< figure src="photo.jpg" title="The completed locker arriving to the International Space Station. Low Earth Orbit, Space. (Photo credit: NASA)" lightbox="false" >}}

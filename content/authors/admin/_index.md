@@ -88,24 +88,25 @@ email: ""
 #wireless brain-computer interfaces, and a radiation sensing system for high-altitude balloons. 
 #I believe that publications alone are not enough to communicate with the public, especially for tax payer-funded research, therefore
 #it is our responsibility as researchers to provide full-value to the public and earn their support through
+#Essential critical thinking skills can be found across science, technology, engineering, art, and mathematics (STEAM). I am passionate about engaging with the public through STEAM outreach, mentoring, and teaching.
+#"Garbage in, garbage out" describes a common challenge in decision making--conclusions are only as good the data on which they are based.
+#My research focuses on  is in designing measurement systems that help us formulate high-quality decisions
+#The power consumption of conventional wireless systems (e.g. WiFi and Bluetooth) is too high for devices like neural implants that are severely size and power constrained.
+#[Did you realize that most of your phone is a battery?](https://youtu.be/0DtW52b6t30?t=654) 
+#I have experience working on embedded-electronics and instrumentation hardware on a breadth of projects and sectors:
+#- **Government -** nanosatellites and drones
+#- **Industry -** wearable electronics and satellite internet hardware
+#- **Academia -** brain-computer interfaces and wireless theory
+#If you have any questions, don't hesitate to reach out.
 ---
 
-Hello, I am a Ph.D. student and National Science Graduate Research Fellow in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the University of Washington (UW).
+James is a Ph.D. student and National Science Graduate Research Fellow in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the University of Washington (UW).
 
-"Garbage in, garbage out" is a phrase that describes a common pitfall in computing. 
-My expertise is in providing high-quality measurements that helps formulate high-quality decisions. 
-My work has contributed to [improving aviation safety at NASA](post/radx/) and the [development of neural prosthetics](post/neurodisc/) at the 
+His research focuses on ultra-low power embedded sensing systems and novel electromagnetic applications.
+His work has contributed to [improving aviation safety at NASA](post/radx/) and the [development of neural prosthetics](post/neurodisc/) at the 
 [UW Center for Neurotechnology](http://www.csne-erc.org/). 
 
-The focus of my dissertation is on improving [wireless brain-computer interfaces](post/neurodisc/) by reducing power consumption. 
-[Did you realize that nearly half your phone is a battery?](https://youtu.be/0DtW52b6t30?t=654)
-By reducing the size, weight, and power needs of our wireless sensors, we can enable exploration of diverse, extreme environments, from the brain to the solar system.
+He is advised by Prof. Matt Reynolds and his dissertation is focused on reducing the size, weight, and power needs of [wireless brain-computer interfaces](post/neurodisc/) to enable 
+new fundamental research and revolutionary clinical applications. In addition to his research, James is actively engaged in [outreach, mentoring, and teaching](/teaching/).
 
-I have well-rounded experience working on embedded-electronics and instrumentation hardware for government, industry, and academic research:
-- **Government -** nanosatellites and drones
-- **Industry -** wearable electronics and satellite internet hardware
-- **Academia -** brain-computer interfaces and wireless theory
-
-Essential critical thinking skills can be found across science, technology, engineering, art, and mathematics (STEAM). I am passionate about engaging with the public through [STEAM outreach, mentoring, and teaching](/teaching/).
-
-For an overview of my experience, see my [CV](files/cv.pdf). For more details on my work, check out my [Publications](publication) and [Projects](#projects). If you have any questions, don't hesitate to reach out.
+For additional information, please see his [CV](files/cv.pdf), [Publications](publication) and [Projects](#projects). 
