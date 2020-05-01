@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -26,8 +26,6 @@ interests:
 - Instrumentation for extreme environments
 - Wireless embedded systems
 - Fully-integrated brain-computer interfaces
-- Characterization and application of neural plasticity
-- Wireless sensing systems for *in situ* planetary exploration
 - Digital arts and experimental media
 - Science, technology, engineering, art, and math (STEAM) outreach
 
@@ -102,11 +100,11 @@ email: ""
 
 James is a Ph.D. student and National Science Graduate Research Fellow in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the University of Washington (UW).
 
-His research focuses on ultra-low power embedded sensing systems and novel electromagnetic applications.
-His work has contributed to [improving aviation safety at NASA](post/radx/) and the [development of neural prosthetics](post/neurodisc/) at the 
+His research explores how architectural innovation in embedded systems can enable new measurements and critical scientific insight. Much of his research has focused on **novel applications of electromagnetic theory** 
+for **ultra-low power wireless embedded systems**. For example, his work has contributed to [measuring biologically-harmful space radiation at NASA to improve aviation safety](post/radx/) and the [development of neural prosthetics](post/neurodisc/) at the 
 [UW Center for Neurotechnology](http://www.csne-erc.org/). 
 
-He is advised by Prof. Matt Reynolds and his dissertation is focused on reducing the size, weight, and power needs of [wireless brain-computer interfaces](post/neurodisc/) to enable 
-new fundamental research and revolutionary clinical applications. In addition to his research, James is actively engaged in [outreach, mentoring, and teaching](/teaching/).
+He is advised by Prof. Matt Reynolds and his dissertation is focused on reducing the size, weight, and power consumption of [wireless brain-computer interfaces](post/neurodisc/) to enable 
+new fundamental research and revolutionary clinical applications. In addition to research, James is actively engaged in [outreach, mentoring, and teaching](/teaching/).
 
 For additional information, please see his [CV](files/cv.pdf), [Publications](publication) and [Projects](#projects). 
