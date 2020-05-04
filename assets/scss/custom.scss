@@ -8198,6 +8198,9 @@ ul.share li:hover i {
   max-width: 150px;
   height: auto;
   object-fit: cover; }
+  
+.stream-item { 
+  align-items: center; } 
 
 @media screen and (max-width: 768px) {
   .media.stream-item img {
