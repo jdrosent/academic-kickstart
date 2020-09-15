@@ -7,15 +7,15 @@ subtitle: "**A nanosatellite for evaluating low-cost, high-precision GPS receive
 
 NASA's GPS Experiment (GPX2) is a nanosatellite mission focused on developing
 a CubeSat platform for testing carrier-wave differential GPS (CDGPS) for precise relative
-navigation between low-cost satellites.
+navigation between low-cost satellites. The satellite is set to launch in 2021.
 
 
 In the summer of 2017 I returned to full-time work at NASA for the summer after my first year of graduate school.
 I served as the Electrical Engineering Lead on GPX-2. I worked with the GPX-2 team to formulate the
 concept of operations, mission requirements, as well as the assembly, integration, and test
-plan. Additionally, I designed a six-layer, PC/104-form factor flight computer based on the STM32F4 ARM-Cortex-M4 MCU.
-Technical responsibilities included schematic design, board layout, fabrication, assembly,
-and bench-top validation. In addition, I GPX-2 is set to launch in 2021."
+plan. Additionally, I collaborated with other engineers on the design of a six-layer, PC/104-form factor flight computer based on the STM32F4 ARM-Cortex-M4 MCU.
+My technical responsibilities included schematic and board layout revisions to account for requirements changes, 
+coordination of fabrication and assembly of the board via an external supplier, and bench-top validation."
 
 summary: "A nanosatellite for evaluating low-cost, high-precision GPS receivers for rendez-vous and docking"
 authors: []
@@ -44,8 +44,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+# {{< figure src="photo2.PNG" title="Block diagram of the GPX-2 architecture." lightbox="false" >}}
 projects: []
 ---
-{{< figure src="photo2.PNG" title="Block diagram of the GPX-2 architecture." lightbox="false" >}}
 {{< figure src="photo.PNG" title="Flight computer PCB layout in Altium Designer (left) and the fully-assembled PCB (right)." lightbox="false" >}}
 {{< figure src="photo1.PNG" title="Testing the flight computer with a GOM Space electrical power system." lightbox="false" >}}
