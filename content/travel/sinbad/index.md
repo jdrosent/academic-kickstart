@@ -7,8 +7,8 @@ summary: "During grad school, my brother and I built a Super Sinbad RC glider."
 tags: []
 authors: []
 categories: []
-date: 2020-09-15T19:01:01-07:00 	
-lastmod: 2020-09-15T19:01:01-07:00
+date: 2020-09-13T19:01:01-07:00 	
+lastmod: 2020-09-15T19:01:02-07:00
 featured: false
 draft: false
 reading_time: false  # Show estimated reading time?
@@ -30,11 +30,12 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+#{{< youtube IN9W20QykMs >}}
 projects: [""]
 ---
 {{< figure src="featured.jpg" title="Completed plane waiting to be launched." lightbox="false" >}}
 
-{{< figure src="wing.jpg" title="96'' wingspan." lightbox="false" >}}
+{{< figure src="wing.jpg" title="96 inch wingspan. Human shown for scale." lightbox="false" >}}
 
 {{< figure src="highstart.jpg" title="Attaching the highstart bungee." lightbox="false" >}}
 
