@@ -13,7 +13,7 @@ Raw high-bandwidth neural data can then be streamed to an external system using 
 - A custom 25 Mbps differential quadrature phase-shift keying (DQPSK) uplink that expends only 12.4 pJ/bit
 
 - A Bluetooth Low Energy (BLE) backscatter uplink that is compatible with any BLE device (e.g. smartphone or tablet) and consumes <200 pJ/bit, over 50X 
-lower power consumption than commercially available BLE transmitters"
+more energy efficient than commercially available BLE transmitters"
 summary: "A wireless backscatter brain-computer interface for electrophysiology experiments"
 tags: [biomedical devices, bci, bmi, backscatter]
 authors: []

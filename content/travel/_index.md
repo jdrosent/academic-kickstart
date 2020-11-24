@@ -1,5 +1,5 @@
 ---
-title: Travel
+title: Hobbies
 date: 2020-03-25T14:17:30-07:00
 draft: true
 # View.

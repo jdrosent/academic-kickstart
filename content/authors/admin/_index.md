@@ -95,15 +95,15 @@ email: ""
 #If you have any questions, don't hesitate to reach out.
 ---
 
-James is a Ph.D. candidate and National Science Graduate Research Fellow in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the University of Washington (UW).
+Welcome to my website. I'm currently a Ph.D. candidate and National Science Graduate Research Fellow in the [Department of Electrical & Computer Engineering](https://www.ece.uw.edu/) at the University of Washington (UW).
 
-His dissertation research focuses on the development of [wireless brain-computer interfaces](post/neurodisc/), exploring how architectural innovation 
-in embedded systems can reduce the size, weight, and power consumption of wireless systems and enable revolutionary clinical treatments for neurological disorders. 
+My dissertation research focuses on the development of [wireless brain-computer interfaces](post/neurodisc/), exploring how architectural innovation 
+in embedded systems can reduce the size, weight, and power consumption of wireless systems and enable new methods for monitoring and treating for neurological disorders. 
 
-Much of his work has been in **novel** **applications** **of** **electromagnetic** **theory**, **ultra-low** **power** **wireless** **embedded** **systems**, and **electronic** **instrumentation**
-**for** **extreme** **environments**. Examples of his work have contributed to the [development of neural prosthetics](post/neurodisc/) at the [UW Center for Neurotechnology](http://www.csne-erc.org/) and the 
+Much of my work has been in **novel** **applications** **of** **electromagnetic** **theory**, **ultra-low** **power** **wireless** **embedded** **systems**, and **electronic** **instrumentation**
+**for** **extreme** **environments**. This work have contributed to the [development of neural prosthetics](post/neurodisc/) at the [UW Center for Neurotechnology](http://www.csne-erc.org/) and the 
 [measurement of biologically-harmful space radiation at NASA to improve aviation safety](post/radx/). 
 
-In addition to research, James is actively engaged in [outreach, mentoring, and teaching](/teaching/).
+Outside of research, I'm passionate about [outreach, mentoring, and teaching](/teaching/). Also lots of [hobbies](/travel/). 
 
-For more information, please see his [CV](files/cv.pdf), [Publications](publication) and [Projects](#projects). 
+For more information, check out my [CV](files/cv.pdf), [Publications](publication) and [Projects](#projects).  
